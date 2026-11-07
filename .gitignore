@@ -1,0 +1,6 @@
+akun_full.txt
+akun.txt
+data/
+__pycache__/
+*.pyc
+.env
