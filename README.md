@@ -92,7 +92,7 @@ Jika muncul daftar 5 email terakhir di inbox Anda, integrasi email berhasil!
 
 1. **Clone Repository**:
    ```bash
-   git clone <URL_REPO_GITHUB_ANDA>
+   git clone https://github.com/ikyyss/kirofarm.git
    cd kirofarm
    ```
 2. **Install Python 3.13** (atau 3.11+).
